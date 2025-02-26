@@ -13,4 +13,4 @@ print("Az utaknak Kilóméterben adja meg az adatokat és csak a számot írja b
 Autopalya_ut = int(input("Autópály útját gépeld ide:"))
 Fout_ut = int(input("Fő út útját gépeld ide:"))
 Lakott_ter_ut = int(input("Lakott területek alatt megtett út útját gépeld ide:"))
-
+.
