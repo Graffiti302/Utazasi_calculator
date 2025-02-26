@@ -5,6 +5,7 @@ benzin = 684.8
 autopalya_fogy = 8.5
 fout_fogy = 7
 varos_fogy = 9.5
+autopalya_matrica = 5320
 
 
 print("Üdvözöllek az út kalkulátorban.  Ha nem megy autópályán akkor gépelje be azt hogy nulla.")
